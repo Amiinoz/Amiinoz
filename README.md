@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors ](https://visitor-badge.glitch.me/badge?page_id=${Amiinoz}.${https://github.com/Amiinoz/Amiinoz}
+![visitors ](https://visitor-badge.glitch.me/badge?page_id=${Amiinoz}.${https://github.com/Amiinoz/Amiinoz})
 
 
 
