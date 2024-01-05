@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h2 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate frontend developer & Ux Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiinoz&label=Profile%20views&color=0e75b6&style=flat" alt="amiinoz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiinoz" alt="amiinoz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@dev_mos" target="blank"><img src="https://img.shields.io/twitter/follow/@dev_mos?logo=twitter&style=for-the-badge" alt="@dev_mos" /></a> </p>
 
@@ -13,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at *** New Portfolio [www.momagan.com](www.momagan.com)
+- 👨‍💻 All of my projects are available at [www.momagan.com](www.momagan.com)
 
 - 📫 How to reach me **moamiin02@gmail.com**
 
-- ⚡ Fun fact **Football & Street photography**
+- ⚡ Fun fact **I play football(aka Soccer) & into Street photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
