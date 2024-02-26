@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiinoz&label=Profile%20views&color=0e75b6&style=flat" alt="amiinoz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@dev_mos" target="blank"><img src="https://img.shields.io/twitter/follow/@dev_mos?logo=twitter&style=for-the-badge" alt="@dev_mos" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+## <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 
 - 🔭 I’m currently working on **Freelance Projects**
